@@ -1,0 +1,13 @@
+bin/python2.8
+bin/pythonw2.8
+bin/python2.8-config
+bin/idle2.8
+bin/pydoc2.8
+bin/smtpd2.8.py
+bin/2to3-2.8
+share/man/man1/python2.8.1
+-
+-
+-
+-
+-
