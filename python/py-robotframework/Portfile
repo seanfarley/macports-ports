@@ -21,7 +21,7 @@ checksums           rmd160  1d4f5234ee63963f33042fddb96ff23941fed3af \
                     sha256  cd16f5f83031b8a754ca0a7523ce10b5046a17f3b9422626804ec05b7c501c87
 
 platforms           darwin
-python.versions		26 27 34
+python.versions		26 27 28 34
 python.default_version	27
 
 universal_variant	yes

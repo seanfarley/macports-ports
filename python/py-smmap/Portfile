@@ -17,7 +17,7 @@ long_description  ${description}
 checksums           rmd160  516c6e43371d00715caead014c9b3661eb30ea82 \
                     sha256  de2da2bf12a6a80a5853ccf5ac5603c2fc1593bdc156c5937dc6c0f191d2a512
 
-python.versions   26 27
+python.versions   26 27 28
 python.default_version 27
 
 if {${name} ne ${subport}} {

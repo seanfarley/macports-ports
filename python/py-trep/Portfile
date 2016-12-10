@@ -24,7 +24,7 @@ platforms           darwin
 checksums           md5     b2d2d66f7fbdb62d68a961f6468e8205 \
                     sha1    d372940115f9ed96b8dd1637d42a6f4478f4298a \
                     rmd160  99d24d8470511dcad4f84f37cf89912336f910b7
-python.versions     27
+python.versions     27 28
 
 if {${name} ne ${subport}} {
     # Can use either py*-pyqt4 or py*-pyqt4-devel.

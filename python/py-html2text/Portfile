@@ -28,7 +28,7 @@ distname            ${realname}-${version}
 checksums           rmd160  81019a1566f56ef75cea78009938b32cfc35a6df \
                     sha256  98aa9e93724afb5ecd9445df9800d0690a3f910726b0c577009277024aa840c6
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} eq ${subport}} {
     livecheck.type  regex

@@ -16,7 +16,7 @@ license             BSD
 # Stealth update
 dist_subdir         ${name}/${version}_1
 
-python.versions     27 34
+python.versions     27 28 34
 
 maintainers         stromnov openmaintainer
 

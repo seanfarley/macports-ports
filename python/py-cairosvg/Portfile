@@ -23,7 +23,7 @@ long_description    CairoSVG is a SVG converter based on Cairo. It can export SV
 checksums           rmd160  ecb9369f5af58049d9337036be75b255a4ab07ad \
                     sha256  344219232f68a328bdded4ee78f0d749bc466d509b4db6367c044b847e9476cc
 
-python.versions     26 27 33 34
+python.versions     26 27 28 33 34
 
 if {${name} ne ${subport}} {
     depends_lib-append  port:py${python.version}-cairo

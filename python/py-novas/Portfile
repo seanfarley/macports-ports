@@ -23,7 +23,7 @@ homepage                https://pypi.python.org/pypi/novas/
 checksums           rmd160  af421c24ef6892e03e847f873f8ec36fde0daebe \
                     sha256  55a6ffc290f80d1bec780a65fd41d0af019aae7f2f78e4bb27464fab96dfd42d
 
-python.versions         26 27 33 34
+python.versions         26 27 28 33 34
 
 if {${name} ne ${subport}} {
 

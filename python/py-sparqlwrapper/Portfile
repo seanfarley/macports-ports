@@ -10,7 +10,7 @@ categories-append   devel databases
 platforms           darwin
 license             W3C
 
-python.versions     27 34
+python.versions     27 28 34
 
 maintainers         nomaintainer
 

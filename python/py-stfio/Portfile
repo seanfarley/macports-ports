@@ -20,7 +20,7 @@ distname            stimfit-${version}
 checksums           rmd160  bdf89fe65cb65c0a3f40e0abe9c832a6e623afed \
                     sha256  e3dd771129fea5bb6a250da4594bd2ba52e6fd73272b5d51ef2c005d38a0b7f3
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if { ${name} ne ${subport} } {
     depends_build   port:swig-python

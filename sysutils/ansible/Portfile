@@ -29,7 +29,7 @@ license         GPL-3+
 platforms       darwin
 supported_archs noarch
 
-python.versions 27
+python.versions 27 28
 
 depends_lib-append      port:py${python.version}-six \
                         port:py${python.version}-paramiko \

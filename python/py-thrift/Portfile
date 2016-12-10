@@ -30,7 +30,7 @@ checksums       sha1   02f78b158da795ea89a26ce41964fbe562cc4235 \
                 rmd160 a858d2ef0e4e41305e43ef42e9cc602915a47c1f \
                 sha256 cef50d3934c41db5fa7724440cc6f10a732e7a77fe979b98c23ce45725349570
 
-python.versions 26 27
+python.versions 26 27 28
 python.default_version 27
 
 if {${name} ne ${subport}} {

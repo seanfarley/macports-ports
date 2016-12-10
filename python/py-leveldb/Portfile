@@ -22,7 +22,7 @@ checksums           rmd160  368f83cfea487bd9ce90a3904a158e33b68b709e \
 
 distname            ${real_name}-${version}
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
 

@@ -20,7 +20,7 @@ long_description  GitPython provides object model access to your git \
 checksums           rmd160  d25debf1a0a6bbda7d53e8f094efd3a4e6343c6b \
                     sha256  f5c9f0e6e8878eb40df269e2b88029dc2df5d10d22cb3510dfee74cb74f7874d
 
-python.versions     27
+python.versions     27 28
 
 if {${name} ne ${subport}} {
     depends_build-append    port:py${python.version}-setuptools

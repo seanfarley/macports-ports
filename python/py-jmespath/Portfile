@@ -20,7 +20,7 @@ distname            jmespath-0.6.2
 checksums           rmd160  6202c97e0266ec6e9307dce7c338fab0937da098 \
                     sha256  b10237fd30ab535367be6453aeb249299e1de0fb61567ff5efc22d1f88f2ae00
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
     depends_build-append \

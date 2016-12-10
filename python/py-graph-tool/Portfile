@@ -29,7 +29,7 @@ checksums           md5     6b68edf0ef5efc375b467a7a117eb9c2 \
                     sha256  eba1090f94b0434890beedaf0c100dd0fc77e41ebfe29b4725d76cadb82099af
 distname            ${realname}-${version}
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 python.default_version 27
 
 if {${os.major} <= 12 && ${os.platform} eq "darwin"} {

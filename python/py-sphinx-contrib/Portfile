@@ -22,7 +22,7 @@ supported_archs     noarch
 checksums           rmd160  41e458ffec140f942285017742de3bc36c7da352 \
                     sha256  30929b9d390e34555d6c103dcb25e122a2aedd6d079affbf013854863755af1f
 
-python.versions     27
+python.versions     27 28
 
 if {$subport ne $name} {
     depends_lib     port:py${python.version}-sphinx

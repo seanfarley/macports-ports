@@ -26,7 +26,7 @@ distname            six-${version}
 checksums           rmd160  9c5e84a8d2640fc98b33f62896a4f9a3f64167ee \
                     sha256  105f8d68616f8248e24bf0e9372ef04d3cc10104f1980f54d57b2ce73a5ad56a
 
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 
 if {${name} ne ${subport}} {
     livecheck.type      none

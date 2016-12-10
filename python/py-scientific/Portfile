@@ -15,7 +15,7 @@ platforms           darwin
 maintainers         sean openmaintainer
 description         Scientific Python
 
-python.versions     26 27
+python.versions     26 27 28
 
 long_description    ScientificPython is a collection of Python modules that \
                     are useful for scientific computing.

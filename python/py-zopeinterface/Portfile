@@ -6,7 +6,7 @@ PortGroup           python 1.0
 
 name                py-zopeinterface
 version             4.3.2
-python.versions     27 34 35
+python.versions     27 28 34 35
 categories-append   zope
 license             ZPL-2.1
 platforms           darwin

@@ -38,7 +38,7 @@ patchfiles-append   patch-hdf5path.diff
 build.env-append    USE_NCCONFIG=1
 destroot.env-append USE_NCCONFIG=1
 
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 
 if {${name} ne ${subport}} {
     depends_lib-append  port:netcdf \

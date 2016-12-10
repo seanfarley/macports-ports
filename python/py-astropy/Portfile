@@ -25,7 +25,7 @@ checksums           md5     3a215762e1688c7d53bd32c78e7fa67a \
                     sha1    2fd4410b51d1e8b657ad9c101f8612fa505284f6 \
                     rmd160  ea9dad7b5124e6a577979f6e2c1a5f9fcbf0eeed
 
-python.versions     27 33 34 35
+python.versions     27 28 33 34 35
 
 build.args-append   --use-system-cfitsio \
                     --use-system-expat \

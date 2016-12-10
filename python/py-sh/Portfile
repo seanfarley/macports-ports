@@ -22,7 +22,7 @@ long_description    ${description} \
 checksums           rmd160  cf6f5c36b7e19eaf39dcbed3250d67c052464a58 \
                     sha256  8653bc6db7ead98ef927038ff2d6650f67c5b286b67ad5f41594afce6b62ee1c
 
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 
 if {${name} ne ${subport}} {
     livecheck.type  none

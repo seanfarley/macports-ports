@@ -21,7 +21,7 @@ distname            termcolor-${version}
 checksums           sha1    52045880a05c0fbd192343d9c9aad46a73d20e8c \
                     rmd160  1555f55ff04abff3929dd86215dcd679c3c4813f
 
-python.versions     27
+python.versions     27 28
 
 if {$subport ne $name} {
     livecheck.type      none

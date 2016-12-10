@@ -24,7 +24,7 @@ homepage            https://pythonhosted.org/Flask-SQLAlchemy/
 checksums           rmd160  bff22ca59e8ee8f00a821e38e8e17449adcb3344 \
                     sha256  6a9098f4701abd2ec384952786a48cb364410f170eaf00e535daf55208a8087e
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
     depends_build-append    port:py${python.version}-setuptools

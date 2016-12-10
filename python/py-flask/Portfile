@@ -7,7 +7,7 @@ PortGroup           python 1.0
 name                py-flask
 version             0.11.1
 revision            1
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 platforms           darwin
 maintainers         ryandesign openmaintainer
 license             BSD

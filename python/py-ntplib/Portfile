@@ -6,7 +6,7 @@ PortGroup           python 1.0
 
 name                py-ntplib
 version             0.3.1
-python.versions     26 27
+python.versions     26 27 28
 platforms           darwin
 maintainers         maiar.org:jason-macports
 license             LGPL

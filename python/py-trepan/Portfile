@@ -23,7 +23,7 @@ long_description    This is a rewrite of the Python debugger, pydb, \
 checksums           rmd160  f90e11b5a21b75b9a99608bc6c8a22c04f1bcd95 \
                     sha256  2ceb287b87f710458a7951a1ecd75ff5987743d561fbc303a94bb022379ff095
 
-python.versions     27
+python.versions     27 28
 
 if {${subport} ne ${name}} {
     depends_lib-append  port:py${python.version}-setuptools

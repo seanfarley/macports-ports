@@ -11,7 +11,7 @@ categories-append   textproc www
 platforms           darwin
 license             BSD
 
-python.versions     27 34
+python.versions     27 28 34
 
 maintainers         stromnov openmaintainer
 

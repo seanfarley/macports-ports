@@ -32,7 +32,7 @@ worksrcdir          Epsilon-${version}
 # currently only supports python27
 
 python.default_version  27
-python.versions     27
+python.versions     27 28
 
 
 if {${name} ne ${subport}} {

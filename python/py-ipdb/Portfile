@@ -26,7 +26,7 @@ homepage            http://pypi.python.org/pypi/ipdb
 checksums           rmd160  c9e60cdb540c53bc56fabe210800b2b1f6c8f33c \
                     sha256  b69ecbeb433c5c5b1e6cdb651df2abc6e82a2c5d73317197617bd507cbda638e
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_lib-append      port:py${python.version}-ipython \

@@ -15,7 +15,7 @@ description         python SOCKS client module
 long_description    PySOCKS is a SOCKS client module, branched off several \
                     earlier abandoned projects
 
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 
 checksums           rmd160  8d7ce54cf63575e469043b67690ff84aa9458320 \
                     sha256  c7d8bb8a228cd12fca9f046b7dcaabfe3f15f75a125ba6994da8d8217e962c55

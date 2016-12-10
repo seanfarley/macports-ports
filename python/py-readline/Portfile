@@ -10,7 +10,7 @@ revision            1
 platforms           darwin
 license             GPL-3+ PSF
 
-python.versions     26 27 34 35
+python.versions     26 27 28 34 35
 
 maintainers         nomaintainer
 

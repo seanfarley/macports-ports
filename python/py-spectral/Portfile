@@ -26,7 +26,7 @@ homepage            http://spectralpython.net/
 checksums           rmd160  06a6754003b0587549d0a08d5bf8712c626dd360 \
                     sha256  5bb5288fc1f27f62a3d0c8cec7bd548f1afd8c83803afb9a4b180298140a49e6
 
-python.versions     26 27
+python.versions     26 27 28
 
 if {${name} ne ${subport}} {
     depends_lib-append  port:py${python.version}-numpy

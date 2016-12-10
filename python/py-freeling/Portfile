@@ -11,7 +11,7 @@ categories-append   devel textproc
 platforms           darwin
 license             GPL-3+
 
-python.versions     27 33
+python.versions     27 28 33
 
 maintainers         stromnov openmaintainer
 

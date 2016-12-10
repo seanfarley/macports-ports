@@ -7,4 +7,4 @@ PortGroup           obsolete 1.0
 PortGroup           python 1.0
 name                py-socksipy-branch
 version             1.02
-python.versions     26 27 33 34
+python.versions     26 27 28 33 34

@@ -9,7 +9,7 @@ PortGroup           python 1.0
 
 name                py-xlrd
 version             1.0.0
-python.versions     27 34 35
+python.versions     27 28 34 35
 platforms           darwin
 maintainers         snc openmaintainer
 license             BSD

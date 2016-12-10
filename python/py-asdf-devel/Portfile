@@ -32,7 +32,7 @@ homepage            http://seismicdata.github.io/pyasdf/
 checksums           rmd160  73d5505681ba773bc2846a489c258736e61f0f5f \
                     sha256  3721dac4e6045b30d00544648e319886922599c0438d5d4655a956ffd65f4951
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_build-append    port:py${python.version}-setuptools

@@ -34,7 +34,7 @@ master_sites        pypi:${_n}/${_name}/
 checksums           rmd160  69ed0c9998ca1c5f1c91dc768ce5c87404d6e5d3 \
                     sha256  c7c460b5aff3a2063c798a77af18ec70af3941d35a22e2e76965e3c0e0b36055
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_build-append    port:py${python.version}-setuptools

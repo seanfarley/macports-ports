@@ -16,7 +16,7 @@ maintainers         nomaintainer
 description         A utility to find file paths.
 long_description    ${description}
 
-python.versions     27 34
+python.versions     27 28 34
 
 if { ${name} ne ${subport} } {
     depends_build-append \

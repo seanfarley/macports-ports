@@ -15,7 +15,7 @@ platforms           darwin
 maintainers         openmaintainer adfernandes
 
 supported_archs     noarch
-python.versions     27 34
+python.versions     27 28 34
 
 description         Yet Another Python Profiler.
 long_description    \

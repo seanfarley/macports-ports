@@ -29,7 +29,7 @@ dist_subdir         qscintilla
 distname            QScintilla_gpl-${version}
 master_sites        sourceforge:pyqt
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 python.default_version 27
 
 if {${name} ne ${subport}} {

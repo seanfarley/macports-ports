@@ -20,7 +20,7 @@ homepage          http://pypi.python.org/pypi/${python.rootname}/
 master_sites      pypi:[string index ${python.rootname} 0]/${python.rootname}
 distname          ${python.rootname}-${realversion}
 
-python.versions   26 27 33 34 35
+python.versions   26 27 28 33 34 35
 
 checksums         md5    bd1b1445b3b2dfa7276b09b1a07b7f0e \
                   rmd160 305916f7a3f9ff7a262d770b7cf19e808ea11105 \

@@ -28,4 +28,4 @@ checksums               md5     b4578a73cc906856f4accdbc1a484d1b \
 
 worksrcdir              ${worksrcdir}/Bindings/python
 
-python.versions         27
+python.versions         27 28

@@ -18,7 +18,7 @@ long_description    ConfigObj is a simple but powerful config file \
                     with a straightforward programmer's interface and \
                     a simple syntax for config files.
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 homepage            https://pypi.python.org/pypi/configobj/
 master_sites        pypi:c/configobj/

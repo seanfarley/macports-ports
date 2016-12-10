@@ -22,7 +22,7 @@ long_description    Universal Feed Parser is a Python module for downloading \
 checksums           rmd160  ecf03e349dade737185786fc520e7e8bec3148cd \
                     sha256  716250ab5c21e335148743bda883a13c99ca708541a43a8c447c36ab7f800e3c
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_build-append port:py${python.version}-setuptools

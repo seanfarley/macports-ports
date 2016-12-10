@@ -12,7 +12,7 @@ epoch               20161005
 
 PortGroup           python 1.0
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 categories-append   devel
 platforms           darwin

@@ -20,7 +20,7 @@ long_description    Clint is a module filled with a set of awesome \
 checksums           rmd160  1bfcda69a1d3fd54fa932aa509b413470bb9d6ec \
                     sha256  99e16d2c188e5d0ab82a0cf4ce3b602a633aab8f5220e60600a0e2726277b659
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
     livecheck.type  none

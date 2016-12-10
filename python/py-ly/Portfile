@@ -25,7 +25,7 @@ checksums           md5     14c8f6bb5c887564af187d1fd5fbbc91 \
                     rmd160  334bdf62566341ce9fd5446086cb39df89addb7f \
                     sha256  c2f87999260af3c9ea00c9997dae1e596fac40f45905d8b7e24e0f441112d63c
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 build {}
 

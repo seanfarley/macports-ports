@@ -10,7 +10,7 @@ categories-append   textproc
 maintainers         nomaintainer
 supported_archs     noarch
 
-python.versions     26 27 32 33 34
+python.versions     26 27 28 32 33 34
 
 if {${name} ne ${subport}} {
     replaced_by     py${python.version}-nltk

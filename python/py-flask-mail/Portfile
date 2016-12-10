@@ -9,7 +9,7 @@ github.setup        mattupstate flask-mail 0.9.1
 name                py-flask-mail
 version             0.9.1
 revision            1
-python.versions     27 34
+python.versions     27 28 34
 categories-append   www
 maintainers         aronnax openmaintainer
 description         Flask Mail extension

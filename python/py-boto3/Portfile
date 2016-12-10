@@ -20,7 +20,7 @@ distname            boto3-${version}
 checksums           rmd160  adcc22281811c6722c35ab4808a65d0bea20834a \
                     sha256  091206847d296520e5ec57706a5e4b428d017352eb3168c6bcb9a1ac9feab224
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
     depends_build-append \

@@ -20,7 +20,7 @@ distname            SRPAstro-${version}
 checksums           md5 7e0a871e8929b14c3d90036a35958f67 \
                     sha256 aca415091273c962ef56b22c12845ee3bc235eec5ce0b0a0f6d973bb065e06f7
 
-python.versions     27
+python.versions     27 28
 
 if {${name} ne ${subport}} {
     depends_build-append    port:py${python.version}-setuptools

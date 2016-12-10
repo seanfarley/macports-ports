@@ -23,7 +23,7 @@ license             GPL
 
 homepage            http://www.pyinstaller.org/
 
-python.versions     27 33 34 35
+python.versions     27 28 33 34 35
 
 if {${name} ne ${subport}} {
 

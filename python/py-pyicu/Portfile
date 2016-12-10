@@ -23,7 +23,7 @@ distname            PyICU-${version}
 checksums           rmd160  01358759a02c8e81823a1d64d35fe2018d9d857e \
                     sha256  9b580801eb17b09a5e0e8ef7d3b29170361ed505c5f954b723c1b48a1e502bb6
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_lib-append  port:icu

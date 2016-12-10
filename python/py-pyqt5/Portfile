@@ -22,7 +22,7 @@ distname            PyQt5_gpl-${version}
 checksums           rmd160  498905b678fc2641c8ff6521b5c2126ac6ddf347 \
                     sha256  2e481a6c4c41b96ed3b33449e5f9599987c63a5c8db93313bd57a6acbf20f0e1
 
-python.versions 27 34 35
+python.versions 27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_lib-append port:py${python.version}-sip \

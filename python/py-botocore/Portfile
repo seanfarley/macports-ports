@@ -20,7 +20,7 @@ distname            ${python.rootname}-${version}
 checksums           rmd160  6e8b19496da996f93a324e53592c1760737b9000 \
                     sha256  ca3a5bcf0e1504137bc8b4322ae305e1b0e3b85e76480df9f79a4f3b39517788
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
     depends_build-append \

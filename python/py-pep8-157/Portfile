@@ -19,7 +19,7 @@ supported_archs     noarch
 license             MIT
 maintainers         nomaintainer
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_lib

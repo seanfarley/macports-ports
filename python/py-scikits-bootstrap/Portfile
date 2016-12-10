@@ -19,7 +19,7 @@ long_description    Algorithms for SciPy to calculate bootstrap confidence \
 checksums           rmd160  3cd699efccbe85a442286507faed57bcf87dc327 \
                     sha256  c98b55d53161e53632ff3e0e60c16ffe7c38b6505947a1f2447eb6d7c01a0e01
 
-python.versions     26 27 33 34
+python.versions     26 27 28 33 34
 
 if {${name} ne ${subport}} {
     depends_lib-append  port:py${python.version}-setuptools \

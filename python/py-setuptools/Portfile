@@ -25,7 +25,7 @@ checksums           md5    412702ed64df822c9ac947e1048b4ea9 \
                     rmd160 c54706a11a94e2ba3fcd22b945dd36d54f31e82e \
                     sha256 2ea217cc858de2ad59c87a5ccb4d22422abd8cf7235803b06df7983e1a581096
 
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 python.link_binaries no
 
 if {$subport ne $name} {

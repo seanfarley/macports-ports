@@ -33,7 +33,7 @@ checksums           md5     ce7c8f96b6533f0350041ea90e55b1bb \
                     rmd160  19b01ef7471430588388b7c69110271e7c0b3b9f \
                     sha256  05f0e063e117c16fcdd13c12c93a4424a2c40668abfac3bb419a10f57698204e
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     livecheck.type  none

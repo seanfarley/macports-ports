@@ -12,7 +12,7 @@ platforms           darwin
 license             LGPL-2.1+
 supported_archs     noarch
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 maintainers         stromnov openmaintainer
 

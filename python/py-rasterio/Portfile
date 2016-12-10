@@ -11,7 +11,7 @@ categories-append   gis
 platforms           darwin
 license             BSD
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 maintainers         stromnov openmaintainer
 

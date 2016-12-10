@@ -9,7 +9,7 @@ set realname        google-api-python-client
 version             1.5.0
 revision            1
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 categories-append   www devel
 maintainers         nomaintainer

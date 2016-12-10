@@ -10,7 +10,7 @@ bitbucket.setup     vinay.sajip python-gnupg 0.3.9
 name                py-gnupg
 # never remove/decrement an epoch
 epoch               1
-python.versions     27 34 35
+python.versions     27 28 34 35
 python.default_version 27
 platforms           darwin
 maintainers         snc openmaintainer

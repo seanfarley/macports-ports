@@ -38,7 +38,7 @@ subport                 py33-h5py-devel {set DEV_VERSION 33}
 subport                 py34-h5py-devel {set DEV_VERSION 34}
 subport                 py35-h5py-devel {set DEV_VERSION 35}
 
-python.versions     26 27 33 34 35
+python.versions     26 27 28 33 34 35
 
 if {${DEV_VERSION}} {
     checksums \

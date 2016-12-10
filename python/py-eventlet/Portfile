@@ -28,7 +28,7 @@ distname            eventlet-${version}
 checksums           rmd160  ccede58cb51dac0dc6c5bfd4b8dea3a18340e2c5 \
                     sha256  eaec368ce7b819f8615dcb51f63dcb5c910538cdedc99e4bba4c90ed0bf70fdc
 
-python.versions     26 27
+python.versions     26 27 28
 
 if {${name} ne ${subport}} {
     depends_build       port:py${python.version}-setuptools

@@ -19,7 +19,7 @@ long_description    ${description}
 checksums           rmd160  bbb5fe4b619ac663858e0fcb8e84e23bb0db6cfc \
                     sha256  c1a9a63f70bb6a3817b921215a3eef6d710b4e8261e26227b078ba44c78e94db
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_build-append \

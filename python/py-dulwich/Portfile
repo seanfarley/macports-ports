@@ -23,7 +23,7 @@ name                py-dulwich
 checksums           rmd160  0161852cc9b73497e0d40138f65f874ea4307f30 \
                     sha256  72e663771243a0c4d50ebae44bda59408d76bbe794fa388803025b3cbbf0072d
 
-python.versions     27
+python.versions     27 28
 
 if {${name} ne ${subport}} {
     conflicts           py${python.version}-dulwich-devel

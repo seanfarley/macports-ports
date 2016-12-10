@@ -17,7 +17,7 @@ long_description    This Python module returns a tzinfo object with the local \
 platforms           darwin
 license             public-domain
 
-python.versions     27 34
+python.versions     27 28 34
 
 if { $name ne $subport } {
     checksums           rmd160  e03c7a147171b2cec03a52dafd66a2fc5fa81ba6 \

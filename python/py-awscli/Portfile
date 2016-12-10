@@ -21,7 +21,7 @@ distname            awscli-${version}
 checksums           rmd160  68bb81fbc880d5745d85fdae20d6dc67efdf0a31 \
                     sha256  b9381c0e180e440e663375ef8066f901aa72b280d0c549b7fc71ded005c064ce
 
-python.versions     27 34
+python.versions     27 28 34
 
 if {${name} ne ${subport}} {
 

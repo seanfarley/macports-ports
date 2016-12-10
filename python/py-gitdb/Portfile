@@ -14,7 +14,7 @@ license           BSD
 description       GitDB is a pure-Python git object database
 long_description  ${description}
 
-python.versions   26 27
+python.versions   26 27 28
 python.default_version 27
 
 checksums           rmd160  d1aac16f7884df68a2de345287662b305649c86b \

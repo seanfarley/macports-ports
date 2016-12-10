@@ -21,7 +21,7 @@ long_description    Pygit2 is a set of Python bindings to the libgit2 shared \
 checksums           rmd160  373e66ec1a474bcaa679a5fccd7f17d0f548f2d6 \
                     sha256  8ba64896a43f3cd4c446b123306a3cbf223cb713333cd2c67c6d921b80093333
 
-python.versions     27 34 35
+python.versions     27 28 34 35
 
 if {${name} ne ${subport}} {
     depends_lib-append  port:libgit2 \

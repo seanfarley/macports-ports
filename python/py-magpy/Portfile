@@ -18,7 +18,7 @@ long_description    ${description}
 checksums           rmd160  958e595ac0b72edc603c8f1f352218c83ace9913 \
                     sha256  cf96a7176da5183b056cd55a57adf972b87c32f0804305597275025e769c599c
 
-python.versions     27 35
+python.versions     27 28 35
 
 # TODO:
 # - add a port py-autobahn

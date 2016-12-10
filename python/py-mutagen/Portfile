@@ -26,7 +26,7 @@ homepage        https://bitbucket.org/lazka/mutagen
 master_sites    https://bitbucket.org/lazka/mutagen/downloads
 checksums           rmd160  bcad2c0ff3b09626887d386678d235815f6fc577 \
                     sha256  aacd667ef1f4fa7b7c201f36b2a6eda1ead3c92331017601d8082af62a7ee461
-python.versions 26 27 34
+python.versions 26 27 28 34
 
 if {${name} eq ${subport}} {
     livecheck.type		regex

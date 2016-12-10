@@ -24,7 +24,7 @@ checksums           rmd160  ccd26e802402bd47da75869213c390370f19ca51 \
                     sha256  c4520c1f473e887809a4849f3dc330c3e45ed0a8d98290e1fc902ebf8d8d6adf
 
 python.default_version 27
-python.versions     26 27 33 34
+python.versions     26 27 28 33 34
 
 if {${name} ne ${subport}} {
     depends_lib-append \

@@ -19,7 +19,7 @@ long_description    ${description}
 checksums           rmd160  5db31756cd957fd3f663c610f5a6e2b229c21455 \
                     sha256  98ab1a2e18ac8c132e6bcca4cd6b45ae6e176dfe779c6d6d683bcac3077fa4ca
 
-python.versions     27
+python.versions     27 28
 
 if {${subport} ne ${name}} {
     depends_lib-append  port:py${python.version}-setuptools

@@ -20,7 +20,7 @@ platforms           darwin
 checksums           rmd160  f523274a3b656986a788eddaea82e4d6edbe3b5c \
                     sha256  9c7c8a0bb8cf8141d88280fd55fa0bdb82dd27289ea2e246a8f863d26eeffffc
 
-python.versions     27
+python.versions     27 28
 
 if {${name} ne ${subport}} {
     depends_run         bin:hg:mercurial

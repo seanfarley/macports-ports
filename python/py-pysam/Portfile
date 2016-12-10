@@ -20,7 +20,7 @@ distname                pysam-${version}
 checksums           rmd160  2a72beb9724bf193361fc042a72201be9837a290 \
                     sha256  d74d1bfc462ec4f0f120be2ef0af2205d9964ec73e365f2c4ac6de3d810b6ef9
 
-python.versions         27
+python.versions         27 28
 
 if {${name} eq ${subport}} {
     livecheck.name      pysam
