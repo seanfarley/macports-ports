@@ -1,0 +1,11 @@
+bin/csvclean-2.8
+bin/csvcut-2.8
+bin/csvgrep-2.8
+bin/csvjoin-2.8
+bin/csvjson-2.8
+bin/csvlook-2.8
+bin/csvsort-2.8
+bin/csvsql-2.8
+bin/csvstack-2.8
+bin/csvstat-2.8
+bin/in2csv-2.8
